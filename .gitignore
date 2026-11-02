@@ -1,0 +1,7 @@
+.cache
+.claude
+build
+build*/
+data/
+__pycache__/
+releases
